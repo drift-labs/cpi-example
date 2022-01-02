@@ -1,5 +1,5 @@
 [programs.localnet]
-drift_cpi_example = "23gFaqsYmR1zrQVYiyWJ5xnEFqmuKLYoGasgewDTHD1u"
+drift_client = "23gFaqsYmR1zrQVYiyWJ5xnEFqmuKLYoGasgewDTHD1u"
 
 [[test.genesis]]
 address = "AsW7LnXB9UA1uec9wi9MctYTgTz7YH9snhxd16GsFaGX"

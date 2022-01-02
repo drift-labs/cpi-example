@@ -21,7 +21,7 @@ mod context;
 mod error;
 mod state;
 
-declare_id!("EGovrRumVsvCzcvHSAYZxzsiUiMTTsMSRjuwUVSxYkXt");
+declare_id!("23gFaqsYmR1zrQVYiyWJ5xnEFqmuKLYoGasgewDTHD1u");
 
 #[program]
 pub mod drift_client {
