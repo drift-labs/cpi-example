@@ -3,7 +3,10 @@
 git submodule update --init --recursive
 cd deps/protocol-v1
 anchor build
-cd ../..
+cd sdk
+yarn
+yarn build
+cd ../../..
 yarn
 anchor test
 ```
