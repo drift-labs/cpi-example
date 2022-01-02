@@ -1,0 +1,3 @@
+[submodule "deps/protocol-v1"]
+	path = deps/protocol-v1
+	url = git@github.com:drift-labs/protocol-v1.git

@@ -1,0 +1,27 @@
+{
+    "dependencies": {
+        "@project-serum/anchor": "^0.16.2"
+    },
+    "scripts": {
+        "prettify": "prettier --write './**/*.ts'",
+        "lint": "eslint . --ext ts --quiet"
+    },
+    "devDependencies": {
+        "@project-serum/anchor": "0.19.1-beta.1",
+        "@project-serum/common": "0.0.1-beta.3",
+        "@project-serum/serum": "^0.13.38",
+        "@solana/spl-token": "^0.1.6",
+        "@solana/web3.js": "1.17.0",
+        "@types/bn.js": "^5.1.0",
+        "@types/mocha": "^8.2.2",
+        "@typescript-eslint/eslint-plugin": "^4.28.0",
+        "@typescript-eslint/parser": "^4.28.0",
+        "eslint": "^7.29.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-prettier": "^3.4.0",
+        "prettier": "^2.4.1",
+        "chai": "^4.3.4",
+        "mocha": "^9.0.3",
+        "typescript": "^4.4.4"
+    }
+}
